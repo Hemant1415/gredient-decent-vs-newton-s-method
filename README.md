@@ -9,11 +9,17 @@ This repository contains Python code that demonstrates the implementation and co
 
 ## Examples
 
-### Gradient Descent Examples
-![Gradient Descent Examples](images/gradient_descent_examples.png)
+### Gradient Descent Example
 
-### Newton's Method Examples
-![Newton's Method Examples](images/newtons_method_examples.png)
+![Gradient Descent Example](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/300px-Gradient_descent.svg.png)
+
+*Caption: Example plot of Gradient Descent. Image source: [Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)*
+
+### Newton's Method Example
+
+![Newton's Method Example](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/NewtonIteration_Ani.gif/300px-NewtonIteration_Ani.gif)
+
+*Caption: Example animation of Newton's Method. Image source: [Wikipedia](https://en.wikipedia.org/wiki/Newton%27s_method)*
 
 ## Requirements
 
